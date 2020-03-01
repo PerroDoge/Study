@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23e78545-700c-4415-8ec7-986bbf3a5dc2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YNydVxQXju4iR6jGgr5Y4Hvh9F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/maweishan/zoo3/lock" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.maweishan.zoo2.lock" />
+      <recent name="com.maweishan.zoo.lock" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="M:\idea-nomal-proj\ZooKeeper-study\src\main\java\com\maweishan\zoo3\lock" />
+      <recent name="M:\idea-nomal-proj\ZooKeeper-study\src\main\java\com\maweishan\zoo2\lock" />
+      <recent name="M:\idea-nomal-proj\ZooKeeper-study\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.maweishan.zoo2.conf.Main" />
+      <module name="ZooKeeper-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maweishan.zoo2.conf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.maweishan.zoo2.lock.Main" />
+      <module name="ZooKeeper-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maweishan.zoo2.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.maweishan.zoo3.lock.Main" />
+      <module name="ZooKeeper-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maweishan.zoo3.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.maweishan.zoo3.conf.Main" />
+      <module name="ZooKeeper-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maweishan.zoo3.conf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_LockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.maweishan.zoo.lock.Main_LockTest" />
+      <module name="ZooKeeper-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maweishan.zoo.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main_LockTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23e78545-700c-4415-8ec7-986bbf3a5dc2" name="Default Changelist" comment="" />
+      <created>1582797433743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582797433743</updated>
+      <workItem from="1582797435733" duration="9367000" />
+      <workItem from="1582860909840" duration="5088000" />
+      <workItem from="1582875711844" duration="183000" />
+      <workItem from="1582876558665" duration="5704000" />
+      <workItem from="1582890108213" duration="11461000" />
+      <workItem from="1582951905966" duration="6784000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Inspections" timestamp="1582873514600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1582873514600" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1582882916679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1582882916679" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1582957926864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582957926864" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1582802085845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582802085845" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582958579908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582958579908" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1582958579908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582958579908" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1582958579907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582958579907" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1582958579908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582958579908" />
+    <state x="672" y="221" width="575" height="593" key="RefactorJ.ExtractClass" timestamp="1582877076264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="221" width="575" height="593" key="RefactorJ.ExtractClass/0.0.1920.1040@0.0.1920.1040" timestamp="1582877076264" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1582897402704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582897402704" />
+    <state x="167" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582951922946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="167" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582951922946" />
+    <state x="753" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582956163045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582956163045" />
+    <state x="690" y="284" key="extract.method.dialog" timestamp="1582958885354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="284" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582958885354" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1582875579421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582875579421" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582879685722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582879685722" />
+  </component>
+</project>
